@@ -1,3 +1,6 @@
+##Welcome to my Data Science portfolio! Here, I am showcasing my work with all things data.##
+
+
 - 👋 Hi, I’m @mariaparfenova
 - 👀 I’m interested in data visualization and SQL querying
 - 🌱 I’m currently learning MongoDB (Javascript) and Neo4j Graph databases (cypher)
