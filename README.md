@@ -1,4 +1,4 @@
-##Welcome to my Data Science portfolio! Here, I am showcasing my work with all things data.##
+</b>Welcome to my Data Science portfolio! Here, I am showcasing my work with all things data.</b>
 
 
 - 👋 Hi, I’m @mariaparfenova
